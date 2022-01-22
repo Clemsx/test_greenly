@@ -1,0 +1,1290 @@
+({
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 19,
+      "discountInPercent": 29,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 9,
+      "discountInPercent": 6,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": 4,
+      "discountInPercent": 43,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 14,
+      "discountInPercent": 38,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 18,
+      "discountInPercent": 28,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 8,
+      "discountInPercent": 7,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": 3,
+      "discountInPercent": 46,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 13,
+      "discountInPercent": 36,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 17,
+      "discountInPercent": 27,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 7,
+      "discountInPercent": 8,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": 2,
+      "discountInPercent": 49,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 12,
+      "discountInPercent": 34,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 16,
+      "discountInPercent": 26,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 6,
+      "discountInPercent": 9,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": 1,
+      "discountInPercent": 50,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 11,
+      "discountInPercent": 32,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 15,
+      "discountInPercent": 25,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 5,
+      "discountInPercent": 10,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": 0,
+      "discountInPercent": 50,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 10,
+      "discountInPercent": 30,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 14,
+      "discountInPercent": 24,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 4,
+      "discountInPercent": 11,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -1,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 9,
+      "discountInPercent": 28,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 13,
+      "discountInPercent": 23,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 3,
+      "discountInPercent": 12,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -2,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 8,
+      "discountInPercent": 26,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 12,
+      "discountInPercent": 22,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 2,
+      "discountInPercent": 13,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -3,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 7,
+      "discountInPercent": 24,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 11,
+      "discountInPercent": 21,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 1,
+      "discountInPercent": 14,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -4,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 6,
+      "discountInPercent": 22,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 10,
+      "discountInPercent": 20,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": 0,
+      "discountInPercent": 15,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -5,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 5,
+      "discountInPercent": 20,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 9,
+      "discountInPercent": 19,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -1,
+      "discountInPercent": 17,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -6,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 4,
+      "discountInPercent": 18,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 8,
+      "discountInPercent": 18,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -2,
+      "discountInPercent": 19,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -7,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 3,
+      "discountInPercent": 16,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 7,
+      "discountInPercent": 17,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -3,
+      "discountInPercent": 21,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -8,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 2,
+      "discountInPercent": 14,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 6,
+      "discountInPercent": 16,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -4,
+      "discountInPercent": 23,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -9,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 1,
+      "discountInPercent": 12,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 5,
+      "discountInPercent": 15,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -5,
+      "discountInPercent": 25,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -10,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": 0,
+      "discountInPercent": 10,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 4,
+      "discountInPercent": 14,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -6,
+      "discountInPercent": 27,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -11,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -1,
+      "discountInPercent": 6,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 3,
+      "discountInPercent": 13,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -7,
+      "discountInPercent": 29,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -12,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -2,
+      "discountInPercent": 2,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 2,
+      "discountInPercent": 12,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -8,
+      "discountInPercent": 31,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -13,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -3,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 1,
+      "discountInPercent": 11,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -9,
+      "discountInPercent": 33,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -14,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -4,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": 0,
+      "discountInPercent": 10,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -10,
+      "discountInPercent": 35,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -15,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -5,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -1,
+      "discountInPercent": 8,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -11,
+      "discountInPercent": 37,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -16,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -6,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -2,
+      "discountInPercent": 6,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -12,
+      "discountInPercent": 39,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -17,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -7,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -3,
+      "discountInPercent": 4,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -13,
+      "discountInPercent": 41,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -18,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -8,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -4,
+      "discountInPercent": 2,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -14,
+      "discountInPercent": 43,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -19,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -9,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -5,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -15,
+      "discountInPercent": 45,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -20,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -10,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -6,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -16,
+      "discountInPercent": 47,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -21,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -11,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -7,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -17,
+      "discountInPercent": 49,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -22,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -12,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -8,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -18,
+      "discountInPercent": 50,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -23,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -13,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -9,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -19,
+      "discountInPercent": 50,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -24,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -14,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+},
+{
+  "discountOffers": [
+    {
+      "partnerName": "Velib",
+      "expiresIn": -10,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountBasic", "removeOneDay"]
+    },
+    {
+      "partnerName": "Naturalia",
+      "expiresIn": -20,
+      "discountInPercent": 50,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Vinted",
+      "expiresIn": -25,
+      "discountInPercent": 0,
+      "discountRules": [
+        "increaseDiscountBasic",
+        "increaseBasedOnDays",
+        "maxDiscount50",
+        "removeOneDay"
+      ]
+    },
+    {
+      "partnerName": "Ilek",
+      "expiresIn": 15,
+      "discountInPercent": 40,
+      "discountRules": []
+    },
+    {
+      "partnerName": "BackMarket",
+      "expiresIn": -15,
+      "discountInPercent": 0,
+      "discountRules": ["reduceDiscountTwice", "minDiscount0", "removeOneDay"]
+    }
+  ]
+})
